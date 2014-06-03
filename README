@@ -1,0 +1,16 @@
+
+Introduction
+
+This distribution called Text::Generate contains modules
+for created text/code for different text formats such as Pod, TeX.
+
+Installation
+
+This distribution used Module::Build for testing and installation. 
+Once unpacked, enter the distribution and invoke from command-line
+
+perl Build.PL
+./Build
+./Build test
+./Build install
+
